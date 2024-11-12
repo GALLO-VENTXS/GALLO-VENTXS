@@ -8,6 +8,7 @@
 
 ### MI PROYECTOS FAVORITOS 💭
 
+<a href="https://github.com/GALLO-VENTXS/MinatoBot-Creative">![github card](https://github-readme-stats.vercel.app/api/pin/?username=GALLO-VENTXS&repo=MinatoBot-Creative&theme=algolia&locale=es)</a>
 
 
 > Powered By GλLLØ VENŦXS ⚡
