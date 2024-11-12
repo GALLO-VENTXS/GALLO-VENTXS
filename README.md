@@ -6,7 +6,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GALLO-VENTXS&theme=algolia&locale=es)](https://github.com/GALLO-VENTXS)
 ![counter](https://komarev.com/ghpvc/?username=GALLO-VENTXS&style=flat-square&theme=algolia&locale=es)
 
-### MIS PROYECTOS FAVORITOS 💭
+### MI PROYECTOS FAVORITOS 💭
 
 
 
