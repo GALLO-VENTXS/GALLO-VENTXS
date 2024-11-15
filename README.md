@@ -1,4 +1,4 @@
- <a href="https://github.com/karim-off"><img src="https://cardivo.vercel.app/api?name=Mi-perfil&description=Hola+Soy+GλLLØ+VENŦXS.+Creador+de+MinatoBot-Creative.&image=https://i.ibb.co/ggVpsd4/file.jpg/revision/latest?cb=20200606024545&usqp=CAU&usqp=CAU&backgroundColor=%23ecf0f1&instagram=gallo_ventxs&whatsapp=Matías_Crypto&pattern=leaf&colorPattern=%23eaeaea" /></a>
+ <a href="https://github.com/karim-off"><img src="https://cardivo.vercel.app/api?name=Mi-perfil&description=Hola+Soy+GλLLØ+VENŦXS.+Creador+de+MinatoBot-Creative.&image=https://i.ibb.co/SPRQS92/file.jpg/revision/latest?cb=20200606024545&usqp=CAU&usqp=CAU&backgroundColor=%23ecf0f1&instagram=gallo_ventxs&whatsapp=Matías_Crypto&pattern=leaf&colorPattern=%23eaeaea" /></a>
 
 ### ESTADÍSTICAS 🏆
 
